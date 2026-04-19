@@ -1,0 +1,7 @@
+DISPLAY_NAME=Website
+MEMORY=1024
+VERSION=recommended
+LANGUAGE=node
+CUSTOM_COMMAND=npm install && npm run dev
+SUBDOMAIN=leonn
+APPID=ab490390-40e3-41ee-91c4-246bae6d19a1
